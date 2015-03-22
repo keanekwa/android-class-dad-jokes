@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Dropbox/Projects/Android/DadJokes/DadJokes.iml" filepath="$USER_HOME$/Dropbox/Projects/Android/DadJokes/DadJokes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-class-dad-jokes.iml" filepath="$PROJECT_DIR$/android-class-dad-jokes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$USER_HOME$/Dropbox/Projects/Android/DadJokes/app/app.iml" filepath="$USER_HOME$/Dropbox/Projects/Android/DadJokes/app/app.iml" />
     </modules>
   </component>

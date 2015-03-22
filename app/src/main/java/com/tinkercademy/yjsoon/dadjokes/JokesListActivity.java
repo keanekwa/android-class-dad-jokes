@@ -4,7 +4,7 @@ import android.app.ListActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 
-
+//test
 public class JokesListActivity extends ListActivity {
 
     private Joke[] mJokes = {
@@ -20,7 +20,7 @@ public class JokesListActivity extends ListActivity {
 
         ArrayAdapter<Joke> adapter;
 
-        adapter = new ArrayAdapter<Joke>(this, android.R.layout.simple_list_item_1, mJokes);
+        adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, mJokes);
         setListAdapter(adapter);
 
     }
