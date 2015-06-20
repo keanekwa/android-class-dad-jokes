@@ -7,4 +7,5 @@
     <string name="joke_dummy_text">Dummy text</string>
     <string name="title_activity_joke_detail">JokeDetailActivity</string>
     <string name="back_to_homepage">Back to Homepage</string>
+    <string name="title_activity_test">Test</string>
 </resources>
